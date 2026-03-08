@@ -17,7 +17,11 @@
   "files.autoSave": "afterDelay",
   "screencastMode.onlyKeyboardShortcuts": true,
   "terminal.integrated.fontSize": 18,
-  "workbench.colorTheme": "Visual Studio Dark",
+  "workbench.colorTheme": "Visual Studio Light",
+  "workbench.colorCustomizations": {
+    "terminal.background": "#000000",
+    "terminal.foreground": "#85a881"
+  },
   "workbench.fontAliasing": "antialiased",
   "workbench.statusBar.visible": true
 }
