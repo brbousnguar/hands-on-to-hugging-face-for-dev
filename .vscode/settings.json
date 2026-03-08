@@ -23,5 +23,6 @@
     "terminal.foreground": "#85a881"
   },
   "workbench.fontAliasing": "antialiased",
-  "workbench.statusBar.visible": true
+  "workbench.statusBar.visible": true,
+  "python.defaultInterpreterPath": "${workspaceFolder}/venv/Scripts/python.exe"
 }
